@@ -1,0 +1,13 @@
+#include<iostream>
+using names pace std;
+int main(){
+cout<<"  PPP PP        AA            CC CC      MM        MM           AA          NNN        NN ";
+cout<<"   PP  PP     AA AA         CC      CC      MM  MM            AA  AA         NN N      NN ";
+cout<<"   PP  PP    AA   AA        CC           MM   MM   MM        AA    AA        NN  N     NN  ";
+cout<<"   PP  PP    AA AA AA       CC           MM    M   MM       AA  AA  AA       NN   N    NN  ";
+cout<<"   PP PP    AA      AA      CC           MM        MM       AA      AA       NN    N   NN  ";
+cout<<"   PP      AA        AA     CC           MM        MM      AA        AA      NN     N  NN  ";
+cout<<"   PP      AA         AA    CC      CC   MM        MM     AA          AA     NN      N NN   ";
+cout<<"   PP     AA          AA      CC CC      MM        MM    AA            AA    NN        NN  ";
+return 0;
+}
